@@ -6,7 +6,7 @@ Este espacio está destinado a compartir mi trayectoria y capacidades técnicas 
 
 ## 📄 Currículum Vitae
 Puedes visualizar y descargar mi currículum actualizado en el siguiente enlace:
-* [**Descargar CV en PDF**]https://github.com/frsolanobarco/CV/blob/main/Francisco%20Solano%20Economista%20Analista.pdf
+* [**Descargar CV en PDF**](https://github.com/frsolanobarco/CV/blob/main/Francisco%20Solano%20Economista%20Analista.pdf)
 
 ## 🎯 Perfil Profesional
 [cite_start]Economista y EMBA con más de 25 años de trayectoria[cite: 1]. [cite_start]Especialista en la transformación de datos financieros en decisiones estratégicas mediante arquitecturas en **Power BI y SQL**[cite: 2].
